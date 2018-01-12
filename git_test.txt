@@ -1,4 +1,15 @@
 git test1
 
+<<<<<<< HEAD
 
 git fix1
+=======
+git test
+git test
+git test
+git test
+>>>>>>> 0ca5853cefbafc551d3ad026d9d26d059feb9dd1
+
+git fix
+git fix
+git fix
